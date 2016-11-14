@@ -6,6 +6,7 @@ spring-websocket-chat
 
 Chat application using AngularJS and Spring WebSockets (STOMP over WebSockets)
 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ![Spring WebSocket Chat](http://www.sergialmar.com/wp-content/uploads/2014/09/spring-websocket-chat-room.png "Spring WebSocket Chat")
 ## Features
